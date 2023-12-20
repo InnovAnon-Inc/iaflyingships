@@ -1,0 +1,2 @@
+fuel_consumption_time (fuel consumption time) int 10 5 360
+fuel_consumption_factor (fuel consumption factor) int 5 1 100
